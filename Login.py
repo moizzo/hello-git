@@ -1,2 +1,2 @@
 print ("login")
-/implementacion del Login/ 
+print ("luego de la correccion del conflicto")
