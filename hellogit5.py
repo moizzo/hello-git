@@ -1,0 +1,1 @@
+print ("creacion de un nuevo fichero")
